@@ -1,5 +1,4 @@
 # Online-E-Learning-Platform-PaidIntern-
-I'm excited to announce that I've been working on a responsive online learning platform as part of my Qualification Project Test at Paidintern.
 
 I focused on front-end development for this Online Learning Platform, aiming to create an intuitive and user-friendly interface that enables learners to easily navigate through courses, explore detailed content, and interact with the platform on any device.
 
