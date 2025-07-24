@@ -1,4 +1,4 @@
-# Online-E-Learning-Platform-PaidIntern-
+# Online-E-Learning-Platform
 
 I focused on front-end development for this Online Learning Platform, aiming to create an intuitive and user-friendly interface that enables learners to easily navigate through courses, explore detailed content, and interact with the platform on any device.
 
